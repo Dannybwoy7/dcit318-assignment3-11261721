@@ -1,0 +1,43 @@
+# Build Folders
+bin/
+obj/
+
+# Rider / ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio workspace settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio auto-generated files
+Generated\ Files/
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+packages/
+
+# Rider
+*.dotCover
+
+# DotCover coverage snapshots
+*.snap
+
+# Backup & report files
+~$*
+*.log
+*.tlog
+
+# Mac / Linux file locks
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+Thumbs.db
